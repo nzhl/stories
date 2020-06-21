@@ -4,7 +4,6 @@
 ## Demo
 对比一下查看效果
 1. Issue: https://github.com/nzhl/books/issues 
-2. 基于Issue渲染的博客: http://blog.zhiminzhang.com
 
 ## gh-pages
 This branch is for distributing only.
@@ -37,8 +36,7 @@ This branch is for distributing only.
     npm i
     node app.js
     ```
-6. 最后把你的更新`push`到GitHub, 访问https://nzhl.github.io/stories 即可看到你的博客. (注意把`nzhl`改成你自己的GitHub用户名)
-
+6. 最后把你的更新`push`到GitHub, 访问https://lilipopololo.github.io/stories 即可看到你的博客. 
 ### 更新
 如果你的Issues有更新, 只需要:
 1. 打开项目目录, 切换到`gh-pages`分支.
